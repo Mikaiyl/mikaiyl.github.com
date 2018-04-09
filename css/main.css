@@ -1,0 +1,49 @@
+html {
+    border: 0px;
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    top: 0px;
+    border: 0px;
+    padding: 0px;
+    margin: 0px;
+    line-height: 100%
+}
+
+#page {
+    height: 100%;
+    widows: 100%;
+}
+
+#container {
+    height: 90%;
+    width: 100%;
+    float: left;
+}
+
+#sidebar {
+    height: 100%;
+    width: 25%;
+    float: left;
+}
+
+#content {
+    height: 100%;
+    width: 75%;
+    float: right;
+    overflow-y: scroll;
+}
+
+#footer {
+    height: 10%;
+    width: 100%;
+    float: left;
+}
+
+#col {
+    height: 100%;
+    width: 66%;
+    float: left;
+}
